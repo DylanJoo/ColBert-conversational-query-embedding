@@ -1,0 +1,12 @@
+# data
+
+# checkpoints
+checkpoints/
+checkpoints/colbertv2.0/
+
+# dpr-convir
+logs/
+wandb/
+
+__pycache__/
+*.swp
